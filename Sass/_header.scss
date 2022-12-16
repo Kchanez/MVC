@@ -1,0 +1,31 @@
+   .background
+    {
+        margin: auto;
+        width: 100%;
+        height: 100vh;
+        background-image: url("../images/AdobeStock_180952477.jpeg") ;
+        background-repeat: no-repeat;
+        background-position:center;
+        //background-size: 100% 100%;
+        background-size: cover;
+        background-attachment: fixed;
+    }
+   
+   
+   header
+    {
+        margin:  auto;
+        width: 100%;
+        //height: 100vh;
+        background-size: 100% 100%;
+        .lien
+        {
+            font-size: 22px;
+        }
+    }
+    
+
+    
+
+
+
